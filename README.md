@@ -2,7 +2,7 @@
 learn uups upgrade 
 
 mod .env `PRIVATE_KEY`
-step:
+### step:
 ```
 yarn 
 hardhat run scripts/01_ERC721MSHKUUPSToken.js --network gw_testnet_v1
