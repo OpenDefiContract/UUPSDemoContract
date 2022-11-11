@@ -1,7 +1,7 @@
 # UUPSDemoContract
 learn uups upgrade 
 
-
+mod .env `PRIVATE_KEY`
 step:
 ```
 yarn 
